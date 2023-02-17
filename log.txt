@@ -1,0 +1,2 @@
+read_file took 0.001001596450805664 seconds to execute
+read_file took 0.0009999275207519531 seconds to execute
